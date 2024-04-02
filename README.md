@@ -13,9 +13,8 @@
   
 # THÀNH VIÊN NHÓM
 
-	| STT | Họ và tên                | MSSV     |
-	| --- | ------------------------ | -------- |
-	| 1   | Võ Minh Tùng             | 22521623 |
-	| 2   | Trần Xuân Ánh            | 17520255 |
-	| 3   | Nguyễn Ngọc Thịnh        | 1952   |
-
+| STT | Họ và tên          | MSSV     |
+| --- | ------------------ | -------- |
+| 1   | [Võ Minh Tùng](https://github.com/tungminhv) | 22521623 |
+| 2   | [Trần Xuân Ánh](https://github.com/17520255) | 17520255 |
+| 3   | [Nguyễn Ngọc Thịnh](https://github.com/James1108Nguyen) | 1952  |
