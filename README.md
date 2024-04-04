@@ -17,4 +17,4 @@
 | --- | ------------------ | -------- |
 | 1   | [Võ Minh Tùng](https://github.com/tungminhv) | 22521623 |
 | 2   | [Trần Xuân Ánh](https://github.com/17520255) | 17520255 |
-| 3   | [Nguyễn Ngọc Thịnh](https://github.com/James1108Nguyen) | 1952283  |
+| 3   | [Nguyễn Ngọc Thịnh](https://github.com/James1108Nguyen) | 19522283  |
