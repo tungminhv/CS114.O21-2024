@@ -3,5 +3,3 @@
 	2. Thư mục LAB01 trong repository: 
 		- chứa folder data. Trong này chứ 2-3 folder ,mỗi folder là MSSV của các thành viên nhóm. Trong các folder data/<mssv> này sẽ lại chứ 10 folder con, có tên từ 0-9. Mỗi folder này phải chứa ít nhất 03 tấm ảnh chụp chữ số viết tay tương ứng của sinh viên đó.
 		- File ipython notebook được chỉnh sửa, trong đó trình bày rõ các sửa đổi của nhóm đã thực hiện lên notebook LAB01, kết quả chạy thử và các thay đổi cải tiến (nếu có)
-# TODO
-	1. Demo kết quả cho data của cả 3 người
